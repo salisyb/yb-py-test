@@ -7,7 +7,7 @@ setup(
     license='MIT',
     author="Salis Abubakar",
     author_email='salisbell404@gmail.com',
-    url="salisyb.github.io",
+    url="https://github.com/salisyb/yb-py-test",
     packages=find_packages('sample'),
     package_dir={'': 'sample'},
     keywords='example project',
